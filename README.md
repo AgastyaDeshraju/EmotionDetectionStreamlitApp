@@ -6,3 +6,5 @@ The application was created using the 'Streamlit' library in Python and the nece
 
 The application is run by using 'streamlit run app.py' in command prompt.
 
+It has also been deployed on [HuggingFace](https://huggingface.co/spaces/AgastyaDeshraju/EmotionRecognition) 
+
